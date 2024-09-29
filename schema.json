@@ -1,0 +1,47 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "Rank Improvement Stone",
+    "image": "https://digitalcommerce.com/wp-content/uploads/2024/04/Rank-improvement-stone1.png",
+    "description": "The Rank Improvement Stone increases Google rankings by up to 47%. Rub gently while chanting every morning to activate. If you see no improvement after the first month, use the stone to smash your computer and offer the remains to the Google God. Repeat until you see positive results.",
+    "gtin14": "1845678901001",
+    "brand": {
+        "@type": "Brand",
+        "name": "Digital Commerce Partners"
+    },
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "199",
+        "url": "https://digitalcommercepartners.com/rank-improvement-stone/",
+        "itemCondition": "https://schema.org/UsedCondition"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue" : "4.8",
+        "ratingCount" : "356",
+        "reviewCount" : "451",
+        "worstRating" : "1",
+        "bestRating" : "5"
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "name" : "Game Changer for SEO!",
+            "author": {
+                "@type": "Person",
+                "name": "Aleks Stoyanov"
+            },
+            "datePublished": "2024-04-01",
+            "reviewBody" : "The Rank Improvement Stone has absolutely transformed how I optimize websites. Nowadays, I just rub and chant for 1 hour each day, and all my clients' websites experience constant growth month after month. Occasionally, I have to smash my computer and make an offering, but it’s worth it. Try it for yourself!",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue" : "5",
+                "worstRating" : "1",
+                "bestRating" : "5"
+            }
+        }
+    ]
+}
+</script>
